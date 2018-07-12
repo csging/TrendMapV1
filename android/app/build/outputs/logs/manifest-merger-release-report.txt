@@ -1,0 +1,247 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\xian\Documents\UCSD Coding Bootcamp\Projects\FOMO\fomomap\fomo-map\android\app\src\main\AndroidManifest.xml:1:1-26:12
+INJECTED from C:\Users\xian\Documents\UCSD Coding Bootcamp\Projects\FOMO\fomomap\fomo-map\android\app\src\main\AndroidManifest.xml:1:1-26:12
+INJECTED from C:\Users\xian\Documents\UCSD Coding Bootcamp\Projects\FOMO\fomomap\fomo-map\android\app\src\main\AndroidManifest.xml:1:1-26:12
+INJECTED from C:\Users\xian\Documents\UCSD Coding Bootcamp\Projects\FOMO\fomomap\fomo-map\android\app\src\main\AndroidManifest.xml:1:1-26:12
+MERGED from [:react-native-vector-icons] C:\Users\xian\Documents\UCSD Coding Bootcamp\Projects\FOMO\fomomap\fomo-map\node_modules\react-native-vector-icons\android\build\intermediates\manifests\full\release\AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-navigation] C:\Users\xian\Documents\UCSD Coding Bootcamp\Projects\FOMO\fomomap\fomo-map\node_modules\react-native-navigation\android\app\build\intermediates\manifests\full\release\AndroidManifest.xml:2:1-20:12
+MERGED from [com.facebook.react:react-native:0.55.4] C:\Users\xian\.gradle\caches\transforms-1\files-1.1\react-native-0.55.4.aar\6291033d8fe122c4cbecc3f78c666eba\AndroidManifest.xml:2:1-15:12
+MERGED from [com.balysv.materialmenu:material-menu-toolbar:1.5.4] C:\Users\xian\.gradle\caches\transforms-1\files-1.1\material-menu-toolbar-1.5.4.aar\ca5d9cc53413030901bd5179cf5d0835\AndroidManifest.xml:2:1-14:12
+MERGED from [com.aurelhubert:ahbottomnavigation:2.0.6] C:\Users\xian\.gradle\caches\transforms-1\files-1.1\ahbottomnavigation-2.0.6.aar\fbd6a15e9143e2213c4afcc09c31c678\AndroidManifest.xml:2:1-13:12
+MERGED from [com.android.support:design:25.3.1] C:\Users\xian\.gradle\caches\transforms-1\files-1.1\design-25.3.1.aar\429540a4d824fd570eed048f1373862f\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\xian\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\6a2547788cee785a2ca301f4f43345af\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:multidex:1.0.2] C:\Users\xian\.gradle\caches\transforms-1\files-1.1\multidex-1.0.2.aar\915e17d3cad867ebc26676558ea3970d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\xian\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.3.1.aar\91830422e8de2d50e5a0744617e3f34f\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\xian\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.3.1.aar\6c6c5909da8f2f3f5809d170230f6d0a\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:transition:25.3.1] C:\Users\xian\.gradle\caches\transforms-1\files-1.1\transition-25.3.1.aar\68e70edb83fe1c9c165b30beb5822cb5\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\xian\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\eac67344bc1990a6ef127becdfa727ed\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\xian\.gradle\caches\transforms-1\files-1.1\support-fragment-25.3.1.aar\1cd0e63451b08f041b567b877e43c6e1\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\xian\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\cf540c7272257caec23b7bbfe1675f75\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\xian\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\d2ab7e0564c8a9fb30ed8cc0698ba0ad\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\xian\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-25.3.1.aar\2d4600fee38466bbcc90c9f9eb53902b\AndroidManifest.xml:17:1-26:12
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\xian\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\a6faee400a230ade8facbffd61008239\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\xian\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\7a8fa889620b173fb50bddb1e26faf0e\AndroidManifest.xml:17:1-31:12
+MERGED from [com.facebook.fbui.textlayoutbuilder:textlayoutbuilder:1.0.0] C:\Users\xian\.gradle\caches\transforms-1\files-1.1\textlayoutbuilder-1.0.0.aar\3c90dd1de862044cbd95b968b4620c2a\AndroidManifest.xml:10:1-18:12
+MERGED from [com.facebook.fresco:fresco:1.3.0] C:\Users\xian\.gradle\caches\transforms-1\files-1.1\fresco-1.3.0.aar\06da02601cd14df4fe49d4ede3666276\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.3.0] C:\Users\xian\.gradle\caches\transforms-1\files-1.1\imagepipeline-okhttp3-1.3.0.aar\e59a42b2ee232b3f90a13cded3c7639b\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.1.0] C:\Users\xian\.gradle\caches\transforms-1\files-1.1\soloader-0.1.0.aar\6681e921545c54161a16edd242e149ff\AndroidManifest.xml:1:1-4:12
+MERGED from [org.webkit:android-jsc:r174650] C:\Users\xian\.gradle\caches\transforms-1\files-1.1\android-jsc-r174650.aar\faa8211ec71e669aae6cfb250845990c\AndroidManifest.xml:1:1-3:12
+MERGED from [com.balysv.materialmenu:material-menu:1.5.4] C:\Users\xian\.gradle\caches\transforms-1\files-1.1\material-menu-1.5.4.aar\ab0def73d4cd02534d45f0d8dfb29282\AndroidManifest.xml:2:1-14:12
+MERGED from [com.facebook.fresco:drawee:1.3.0] C:\Users\xian\.gradle\caches\transforms-1\files-1.1\drawee-1.3.0.aar\ae63315881cef74a35caae8b3191d63f\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:1.3.0] C:\Users\xian\.gradle\caches\transforms-1\files-1.1\imagepipeline-1.3.0.aar\e995d881611fc900e982b26b331640c4\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:1.3.0] C:\Users\xian\.gradle\caches\transforms-1\files-1.1\imagepipeline-base-1.3.0.aar\90be0ada253ec9ce81cb7d73f7488ac2\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:fbcore:1.3.0] C:\Users\xian\.gradle\caches\transforms-1\files-1.1\fbcore-1.3.0.aar\50c30ad5fa5a150ff12551f0ce984881\AndroidManifest.xml:2:1-9:12
+INJECTED from C:\Users\xian\Documents\UCSD Coding Bootcamp\Projects\FOMO\fomomap\fomo-map\android\app\src\main\AndroidManifest.xml:1:1-26:12
+INJECTED from C:\Users\xian\Documents\UCSD Coding Bootcamp\Projects\FOMO\fomomap\fomo-map\android\app\src\main\AndroidManifest.xml:1:1-26:12
+INJECTED from C:\Users\xian\Documents\UCSD Coding Bootcamp\Projects\FOMO\fomomap\fomo-map\android\app\src\main\AndroidManifest.xml:1:1-26:12
+	package
+		ADDED from C:\Users\xian\Documents\UCSD Coding Bootcamp\Projects\FOMO\fomomap\fomo-map\android\app\src\main\AndroidManifest.xml:2:5-26
+		INJECTED from C:\Users\xian\Documents\UCSD Coding Bootcamp\Projects\FOMO\fomomap\fomo-map\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\xian\Documents\UCSD Coding Bootcamp\Projects\FOMO\fomomap\fomo-map\android\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\xian\Documents\UCSD Coding Bootcamp\Projects\FOMO\fomomap\fomo-map\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\xian\Documents\UCSD Coding Bootcamp\Projects\FOMO\fomomap\fomo-map\android\app\src\main\AndroidManifest.xml:1:1-26:12
+		INJECTED from C:\Users\xian\Documents\UCSD Coding Bootcamp\Projects\FOMO\fomomap\fomo-map\android\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\xian\Documents\UCSD Coding Bootcamp\Projects\FOMO\fomomap\fomo-map\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\xian\Documents\UCSD Coding Bootcamp\Projects\FOMO\fomomap\fomo-map\android\app\src\main\AndroidManifest.xml:1:1-26:12
+		INJECTED from C:\Users\xian\Documents\UCSD Coding Bootcamp\Projects\FOMO\fomomap\fomo-map\android\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\xian\Documents\UCSD Coding Bootcamp\Projects\FOMO\fomomap\fomo-map\android\app\src\main\AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\xian\Documents\UCSD Coding Bootcamp\Projects\FOMO\fomomap\fomo-map\android\app\src\main\AndroidManifest.xml:4:5-67
+	android:name
+		ADDED from C:\Users\xian\Documents\UCSD Coding Bootcamp\Projects\FOMO\fomomap\fomo-map\android\app\src\main\AndroidManifest.xml:4:22-64
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from C:\Users\xian\Documents\UCSD Coding Bootcamp\Projects\FOMO\fomomap\fomo-map\android\app\src\main\AndroidManifest.xml:5:5-77
+MERGED from [com.facebook.react:react-native:0.55.4] C:\Users\xian\.gradle\caches\transforms-1\files-1.1\react-native-0.55.4.aar\6291033d8fe122c4cbecc3f78c666eba\AndroidManifest.xml:11:5-78
+MERGED from [com.facebook.react:react-native:0.55.4] C:\Users\xian\.gradle\caches\transforms-1\files-1.1\react-native-0.55.4.aar\6291033d8fe122c4cbecc3f78c666eba\AndroidManifest.xml:11:5-78
+	android:name
+		ADDED from C:\Users\xian\Documents\UCSD Coding Bootcamp\Projects\FOMO\fomomap\fomo-map\android\app\src\main\AndroidManifest.xml:5:22-75
+application
+ADDED from C:\Users\xian\Documents\UCSD Coding Bootcamp\Projects\FOMO\fomomap\fomo-map\android\app\src\main\AndroidManifest.xml:7:5-24:19
+MERGED from [:react-native-navigation] C:\Users\xian\Documents\UCSD Coding Bootcamp\Projects\FOMO\fomomap\fomo-map\node_modules\react-native-navigation\android\app\build\intermediates\manifests\full\release\AndroidManifest.xml:11:5-18:19
+MERGED from [:react-native-navigation] C:\Users\xian\Documents\UCSD Coding Bootcamp\Projects\FOMO\fomomap\fomo-map\node_modules\react-native-navigation\android\app\build\intermediates\manifests\full\release\AndroidManifest.xml:11:5-18:19
+MERGED from [com.facebook.react:react-native:0.55.4] C:\Users\xian\.gradle\caches\transforms-1\files-1.1\react-native-0.55.4.aar\6291033d8fe122c4cbecc3f78c666eba\AndroidManifest.xml:13:5-20
+MERGED from [com.facebook.react:react-native:0.55.4] C:\Users\xian\.gradle\caches\transforms-1\files-1.1\react-native-0.55.4.aar\6291033d8fe122c4cbecc3f78c666eba\AndroidManifest.xml:13:5-20
+MERGED from [com.balysv.materialmenu:material-menu-toolbar:1.5.4] C:\Users\xian\.gradle\caches\transforms-1\files-1.1\material-menu-toolbar-1.5.4.aar\ca5d9cc53413030901bd5179cf5d0835\AndroidManifest.xml:12:5-20
+MERGED from [com.balysv.materialmenu:material-menu-toolbar:1.5.4] C:\Users\xian\.gradle\caches\transforms-1\files-1.1\material-menu-toolbar-1.5.4.aar\ca5d9cc53413030901bd5179cf5d0835\AndroidManifest.xml:12:5-20
+MERGED from [com.aurelhubert:ahbottomnavigation:2.0.6] C:\Users\xian\.gradle\caches\transforms-1\files-1.1\ahbottomnavigation-2.0.6.aar\fbd6a15e9143e2213c4afcc09c31c678\AndroidManifest.xml:11:5-20
+MERGED from [com.aurelhubert:ahbottomnavigation:2.0.6] C:\Users\xian\.gradle\caches\transforms-1\files-1.1\ahbottomnavigation-2.0.6.aar\fbd6a15e9143e2213c4afcc09c31c678\AndroidManifest.xml:11:5-20
+MERGED from [com.android.support:design:25.3.1] C:\Users\xian\.gradle\caches\transforms-1\files-1.1\design-25.3.1.aar\429540a4d824fd570eed048f1373862f\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:design:25.3.1] C:\Users\xian\.gradle\caches\transforms-1\files-1.1\design-25.3.1.aar\429540a4d824fd570eed048f1373862f\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\xian\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\6a2547788cee785a2ca301f4f43345af\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\xian\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\6a2547788cee785a2ca301f4f43345af\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\xian\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.3.1.aar\91830422e8de2d50e5a0744617e3f34f\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\xian\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.3.1.aar\91830422e8de2d50e5a0744617e3f34f\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\xian\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.3.1.aar\6c6c5909da8f2f3f5809d170230f6d0a\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\xian\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.3.1.aar\6c6c5909da8f2f3f5809d170230f6d0a\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:transition:25.3.1] C:\Users\xian\.gradle\caches\transforms-1\files-1.1\transition-25.3.1.aar\68e70edb83fe1c9c165b30beb5822cb5\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:transition:25.3.1] C:\Users\xian\.gradle\caches\transforms-1\files-1.1\transition-25.3.1.aar\68e70edb83fe1c9c165b30beb5822cb5\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\xian\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\eac67344bc1990a6ef127becdfa727ed\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\xian\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\eac67344bc1990a6ef127becdfa727ed\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\xian\.gradle\caches\transforms-1\files-1.1\support-fragment-25.3.1.aar\1cd0e63451b08f041b567b877e43c6e1\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\xian\.gradle\caches\transforms-1\files-1.1\support-fragment-25.3.1.aar\1cd0e63451b08f041b567b877e43c6e1\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\xian\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\cf540c7272257caec23b7bbfe1675f75\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\xian\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\cf540c7272257caec23b7bbfe1675f75\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\xian\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\d2ab7e0564c8a9fb30ed8cc0698ba0ad\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\xian\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\d2ab7e0564c8a9fb30ed8cc0698ba0ad\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\xian\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\a6faee400a230ade8facbffd61008239\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\xian\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\a6faee400a230ade8facbffd61008239\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\xian\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\7a8fa889620b173fb50bddb1e26faf0e\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\xian\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\7a8fa889620b173fb50bddb1e26faf0e\AndroidManifest.xml:29:5-20
+MERGED from [com.facebook.soloader:soloader:0.1.0] C:\Users\xian\.gradle\caches\transforms-1\files-1.1\soloader-0.1.0.aar\6681e921545c54161a16edd242e149ff\AndroidManifest.xml:3:3-17
+MERGED from [com.facebook.soloader:soloader:0.1.0] C:\Users\xian\.gradle\caches\transforms-1\files-1.1\soloader-0.1.0.aar\6681e921545c54161a16edd242e149ff\AndroidManifest.xml:3:3-17
+MERGED from [org.webkit:android-jsc:r174650] C:\Users\xian\.gradle\caches\transforms-1\files-1.1\android-jsc-r174650.aar\faa8211ec71e669aae6cfb250845990c\AndroidManifest.xml:2:3-17
+MERGED from [org.webkit:android-jsc:r174650] C:\Users\xian\.gradle\caches\transforms-1\files-1.1\android-jsc-r174650.aar\faa8211ec71e669aae6cfb250845990c\AndroidManifest.xml:2:3-17
+MERGED from [com.balysv.materialmenu:material-menu:1.5.4] C:\Users\xian\.gradle\caches\transforms-1\files-1.1\material-menu-1.5.4.aar\ab0def73d4cd02534d45f0d8dfb29282\AndroidManifest.xml:12:5-20
+MERGED from [com.balysv.materialmenu:material-menu:1.5.4] C:\Users\xian\.gradle\caches\transforms-1\files-1.1\material-menu-1.5.4.aar\ab0def73d4cd02534d45f0d8dfb29282\AndroidManifest.xml:12:5-20
+	android:label
+		ADDED from C:\Users\xian\Documents\UCSD Coding Bootcamp\Projects\FOMO\fomomap\fomo-map\android\app\src\main\AndroidManifest.xml:9:7-39
+	android:icon
+		ADDED from C:\Users\xian\Documents\UCSD Coding Bootcamp\Projects\FOMO\fomomap\fomo-map\android\app\src\main\AndroidManifest.xml:10:7-41
+	android:allowBackup
+		ADDED from C:\Users\xian\Documents\UCSD Coding Bootcamp\Projects\FOMO\fomomap\fomo-map\android\app\src\main\AndroidManifest.xml:11:7-34
+	android:theme
+		ADDED from C:\Users\xian\Documents\UCSD Coding Bootcamp\Projects\FOMO\fomomap\fomo-map\android\app\src\main\AndroidManifest.xml:12:7-38
+	android:name
+		ADDED from C:\Users\xian\Documents\UCSD Coding Bootcamp\Projects\FOMO\fomomap\fomo-map\android\app\src\main\AndroidManifest.xml:8:7-38
+activity#com.fomomap.MainActivity
+ADDED from C:\Users\xian\Documents\UCSD Coding Bootcamp\Projects\FOMO\fomomap\fomo-map\android\app\src\main\AndroidManifest.xml:13:7-22:18
+	android:label
+		ADDED from C:\Users\xian\Documents\UCSD Coding Bootcamp\Projects\FOMO\fomomap\fomo-map\android\app\src\main\AndroidManifest.xml:15:9-41
+	android:windowSoftInputMode
+		ADDED from C:\Users\xian\Documents\UCSD Coding Bootcamp\Projects\FOMO\fomomap\fomo-map\android\app\src\main\AndroidManifest.xml:17:9-51
+	android:configChanges
+		ADDED from C:\Users\xian\Documents\UCSD Coding Bootcamp\Projects\FOMO\fomomap\fomo-map\android\app\src\main\AndroidManifest.xml:16:9-79
+	android:name
+		ADDED from C:\Users\xian\Documents\UCSD Coding Bootcamp\Projects\FOMO\fomomap\fomo-map\android\app\src\main\AndroidManifest.xml:14:9-37
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\xian\Documents\UCSD Coding Bootcamp\Projects\FOMO\fomomap\fomo-map\android\app\src\main\AndroidManifest.xml:18:9-21:25
+action#android.intent.action.MAIN
+ADDED from C:\Users\xian\Documents\UCSD Coding Bootcamp\Projects\FOMO\fomomap\fomo-map\android\app\src\main\AndroidManifest.xml:19:13-65
+	android:name
+		ADDED from C:\Users\xian\Documents\UCSD Coding Bootcamp\Projects\FOMO\fomomap\fomo-map\android\app\src\main\AndroidManifest.xml:19:21-62
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\xian\Documents\UCSD Coding Bootcamp\Projects\FOMO\fomomap\fomo-map\android\app\src\main\AndroidManifest.xml:20:13-73
+	android:name
+		ADDED from C:\Users\xian\Documents\UCSD Coding Bootcamp\Projects\FOMO\fomomap\fomo-map\android\app\src\main\AndroidManifest.xml:20:23-70
+activity#com.facebook.react.devsupport.DevSettingsActivity
+ADDED from C:\Users\xian\Documents\UCSD Coding Bootcamp\Projects\FOMO\fomomap\fomo-map\android\app\src\main\AndroidManifest.xml:23:7-84
+MERGED from [:react-native-navigation] C:\Users\xian\Documents\UCSD Coding Bootcamp\Projects\FOMO\fomomap\fomo-map\node_modules\react-native-navigation\android\app\build\intermediates\manifests\full\release\AndroidManifest.xml:15:9-17:40
+MERGED from [:react-native-navigation] C:\Users\xian\Documents\UCSD Coding Bootcamp\Projects\FOMO\fomomap\fomo-map\node_modules\react-native-navigation\android\app\build\intermediates\manifests\full\release\AndroidManifest.xml:15:9-17:40
+	android:exported
+		ADDED from [:react-native-navigation] C:\Users\xian\Documents\UCSD Coding Bootcamp\Projects\FOMO\fomomap\fomo-map\node_modules\react-native-navigation\android\app\build\intermediates\manifests\full\release\AndroidManifest.xml:17:13-37
+	android:name
+		ADDED from C:\Users\xian\Documents\UCSD Coding Bootcamp\Projects\FOMO\fomomap\fomo-map\android\app\src\main\AndroidManifest.xml:23:17-81
+uses-sdk
+INJECTED from C:\Users\xian\Documents\UCSD Coding Bootcamp\Projects\FOMO\fomomap\fomo-map\android\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\xian\Documents\UCSD Coding Bootcamp\Projects\FOMO\fomomap\fomo-map\android\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\xian\Documents\UCSD Coding Bootcamp\Projects\FOMO\fomomap\fomo-map\android\app\src\main\AndroidManifest.xml
+MERGED from [:react-native-vector-icons] C:\Users\xian\Documents\UCSD Coding Bootcamp\Projects\FOMO\fomomap\fomo-map\node_modules\react-native-vector-icons\android\build\intermediates\manifests\full\release\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-vector-icons] C:\Users\xian\Documents\UCSD Coding Bootcamp\Projects\FOMO\fomomap\fomo-map\node_modules\react-native-vector-icons\android\build\intermediates\manifests\full\release\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-navigation] C:\Users\xian\Documents\UCSD Coding Bootcamp\Projects\FOMO\fomomap\fomo-map\node_modules\react-native-navigation\android\app\build\intermediates\manifests\full\release\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-navigation] C:\Users\xian\Documents\UCSD Coding Bootcamp\Projects\FOMO\fomomap\fomo-map\node_modules\react-native-navigation\android\app\build\intermediates\manifests\full\release\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.55.4] C:\Users\xian\.gradle\caches\transforms-1\files-1.1\react-native-0.55.4.aar\6291033d8fe122c4cbecc3f78c666eba\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.55.4] C:\Users\xian\.gradle\caches\transforms-1\files-1.1\react-native-0.55.4.aar\6291033d8fe122c4cbecc3f78c666eba\AndroidManifest.xml:7:5-9:41
+MERGED from [com.balysv.materialmenu:material-menu-toolbar:1.5.4] C:\Users\xian\.gradle\caches\transforms-1\files-1.1\material-menu-toolbar-1.5.4.aar\ca5d9cc53413030901bd5179cf5d0835\AndroidManifest.xml:8:5-10:41
+MERGED from [com.balysv.materialmenu:material-menu-toolbar:1.5.4] C:\Users\xian\.gradle\caches\transforms-1\files-1.1\material-menu-toolbar-1.5.4.aar\ca5d9cc53413030901bd5179cf5d0835\AndroidManifest.xml:8:5-10:41
+MERGED from [com.aurelhubert:ahbottomnavigation:2.0.6] C:\Users\xian\.gradle\caches\transforms-1\files-1.1\ahbottomnavigation-2.0.6.aar\fbd6a15e9143e2213c4afcc09c31c678\AndroidManifest.xml:7:5-9:41
+MERGED from [com.aurelhubert:ahbottomnavigation:2.0.6] C:\Users\xian\.gradle\caches\transforms-1\files-1.1\ahbottomnavigation-2.0.6.aar\fbd6a15e9143e2213c4afcc09c31c678\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:design:25.3.1] C:\Users\xian\.gradle\caches\transforms-1\files-1.1\design-25.3.1.aar\429540a4d824fd570eed048f1373862f\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:design:25.3.1] C:\Users\xian\.gradle\caches\transforms-1\files-1.1\design-25.3.1.aar\429540a4d824fd570eed048f1373862f\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\xian\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\6a2547788cee785a2ca301f4f43345af\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\xian\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\6a2547788cee785a2ca301f4f43345af\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:multidex:1.0.2] C:\Users\xian\.gradle\caches\transforms-1\files-1.1\multidex-1.0.2.aar\915e17d3cad867ebc26676558ea3970d\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:multidex:1.0.2] C:\Users\xian\.gradle\caches\transforms-1\files-1.1\multidex-1.0.2.aar\915e17d3cad867ebc26676558ea3970d\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\xian\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.3.1.aar\91830422e8de2d50e5a0744617e3f34f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\xian\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.3.1.aar\91830422e8de2d50e5a0744617e3f34f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\xian\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.3.1.aar\6c6c5909da8f2f3f5809d170230f6d0a\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\xian\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.3.1.aar\6c6c5909da8f2f3f5809d170230f6d0a\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:transition:25.3.1] C:\Users\xian\.gradle\caches\transforms-1\files-1.1\transition-25.3.1.aar\68e70edb83fe1c9c165b30beb5822cb5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:25.3.1] C:\Users\xian\.gradle\caches\transforms-1\files-1.1\transition-25.3.1.aar\68e70edb83fe1c9c165b30beb5822cb5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\xian\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\eac67344bc1990a6ef127becdfa727ed\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\xian\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\eac67344bc1990a6ef127becdfa727ed\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\xian\.gradle\caches\transforms-1\files-1.1\support-fragment-25.3.1.aar\1cd0e63451b08f041b567b877e43c6e1\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\xian\.gradle\caches\transforms-1\files-1.1\support-fragment-25.3.1.aar\1cd0e63451b08f041b567b877e43c6e1\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\xian\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\cf540c7272257caec23b7bbfe1675f75\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\xian\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\cf540c7272257caec23b7bbfe1675f75\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\xian\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\d2ab7e0564c8a9fb30ed8cc0698ba0ad\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\xian\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\d2ab7e0564c8a9fb30ed8cc0698ba0ad\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\xian\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-25.3.1.aar\2d4600fee38466bbcc90c9f9eb53902b\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\xian\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-25.3.1.aar\2d4600fee38466bbcc90c9f9eb53902b\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\xian\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\a6faee400a230ade8facbffd61008239\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\xian\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\a6faee400a230ade8facbffd61008239\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\xian\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\7a8fa889620b173fb50bddb1e26faf0e\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\xian\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\7a8fa889620b173fb50bddb1e26faf0e\AndroidManifest.xml:21:5-23:58
+MERGED from [com.facebook.fbui.textlayoutbuilder:textlayoutbuilder:1.0.0] C:\Users\xian\.gradle\caches\transforms-1\files-1.1\textlayoutbuilder-1.0.0.aar\3c90dd1de862044cbd95b968b4620c2a\AndroidManifest.xml:14:5-16:41
+MERGED from [com.facebook.fbui.textlayoutbuilder:textlayoutbuilder:1.0.0] C:\Users\xian\.gradle\caches\transforms-1\files-1.1\textlayoutbuilder-1.0.0.aar\3c90dd1de862044cbd95b968b4620c2a\AndroidManifest.xml:14:5-16:41
+MERGED from [com.facebook.fresco:fresco:1.3.0] C:\Users\xian\.gradle\caches\transforms-1\files-1.1\fresco-1.3.0.aar\06da02601cd14df4fe49d4ede3666276\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:1.3.0] C:\Users\xian\.gradle\caches\transforms-1\files-1.1\fresco-1.3.0.aar\06da02601cd14df4fe49d4ede3666276\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.3.0] C:\Users\xian\.gradle\caches\transforms-1\files-1.1\imagepipeline-okhttp3-1.3.0.aar\e59a42b2ee232b3f90a13cded3c7639b\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.3.0] C:\Users\xian\.gradle\caches\transforms-1\files-1.1\imagepipeline-okhttp3-1.3.0.aar\e59a42b2ee232b3f90a13cded3c7639b\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.1.0] C:\Users\xian\.gradle\caches\transforms-1\files-1.1\soloader-0.1.0.aar\6681e921545c54161a16edd242e149ff\AndroidManifest.xml:2:3-70
+MERGED from [com.facebook.soloader:soloader:0.1.0] C:\Users\xian\.gradle\caches\transforms-1\files-1.1\soloader-0.1.0.aar\6681e921545c54161a16edd242e149ff\AndroidManifest.xml:2:3-70
+MERGED from [com.balysv.materialmenu:material-menu:1.5.4] C:\Users\xian\.gradle\caches\transforms-1\files-1.1\material-menu-1.5.4.aar\ab0def73d4cd02534d45f0d8dfb29282\AndroidManifest.xml:8:5-10:41
+MERGED from [com.balysv.materialmenu:material-menu:1.5.4] C:\Users\xian\.gradle\caches\transforms-1\files-1.1\material-menu-1.5.4.aar\ab0def73d4cd02534d45f0d8dfb29282\AndroidManifest.xml:8:5-10:41
+MERGED from [com.facebook.fresco:drawee:1.3.0] C:\Users\xian\.gradle\caches\transforms-1\files-1.1\drawee-1.3.0.aar\ae63315881cef74a35caae8b3191d63f\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:1.3.0] C:\Users\xian\.gradle\caches\transforms-1\files-1.1\drawee-1.3.0.aar\ae63315881cef74a35caae8b3191d63f\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.3.0] C:\Users\xian\.gradle\caches\transforms-1\files-1.1\imagepipeline-1.3.0.aar\e995d881611fc900e982b26b331640c4\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.3.0] C:\Users\xian\.gradle\caches\transforms-1\files-1.1\imagepipeline-1.3.0.aar\e995d881611fc900e982b26b331640c4\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.3.0] C:\Users\xian\.gradle\caches\transforms-1\files-1.1\imagepipeline-base-1.3.0.aar\90be0ada253ec9ce81cb7d73f7488ac2\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.3.0] C:\Users\xian\.gradle\caches\transforms-1\files-1.1\imagepipeline-base-1.3.0.aar\90be0ada253ec9ce81cb7d73f7488ac2\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:1.3.0] C:\Users\xian\.gradle\caches\transforms-1\files-1.1\fbcore-1.3.0.aar\50c30ad5fa5a150ff12551f0ce984881\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:1.3.0] C:\Users\xian\.gradle\caches\transforms-1\files-1.1\fbcore-1.3.0.aar\50c30ad5fa5a150ff12551f0ce984881\AndroidManifest.xml:5:5-7:41
+INJECTED from C:\Users\xian\Documents\UCSD Coding Bootcamp\Projects\FOMO\fomomap\fomo-map\android\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\xian\Documents\UCSD Coding Bootcamp\Projects\FOMO\fomomap\fomo-map\android\app\src\main\AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:25.3.1] C:\Users\xian\.gradle\caches\transforms-1\files-1.1\design-25.3.1.aar\429540a4d824fd570eed048f1373862f\AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from C:\Users\xian\Documents\UCSD Coding Bootcamp\Projects\FOMO\fomomap\fomo-map\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\xian\Documents\UCSD Coding Bootcamp\Projects\FOMO\fomomap\fomo-map\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\xian\Documents\UCSD Coding Bootcamp\Projects\FOMO\fomomap\fomo-map\android\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\xian\Documents\UCSD Coding Bootcamp\Projects\FOMO\fomomap\fomo-map\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\xian\Documents\UCSD Coding Bootcamp\Projects\FOMO\fomomap\fomo-map\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\xian\Documents\UCSD Coding Bootcamp\Projects\FOMO\fomomap\fomo-map\android\app\src\main\AndroidManifest.xml
+activity#com.reactnativenavigation.controllers.NavigationActivity
+ADDED from [:react-native-navigation] C:\Users\xian\Documents\UCSD Coding Bootcamp\Projects\FOMO\fomomap\fomo-map\node_modules\react-native-navigation\android\app\build\intermediates\manifests\full\release\AndroidManifest.xml:12:9-14:86
+	android:configChanges
+		ADDED from [:react-native-navigation] C:\Users\xian\Documents\UCSD Coding Bootcamp\Projects\FOMO\fomomap\fomo-map\node_modules\react-native-navigation\android\app\build\intermediates\manifests\full\release\AndroidManifest.xml:14:13-83
+	android:name
+		ADDED from [:react-native-navigation] C:\Users\xian\Documents\UCSD Coding Bootcamp\Projects\FOMO\fomomap\fomo-map\node_modules\react-native-navigation\android\app\build\intermediates\manifests\full\release\AndroidManifest.xml:13:13-84
+meta-data#android.support.VERSION
+ADDED from [com.android.support:design:25.3.1] C:\Users\xian\.gradle\caches\transforms-1\files-1.1\design-25.3.1.aar\429540a4d824fd570eed048f1373862f\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\xian\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\6a2547788cee785a2ca301f4f43345af\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\xian\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\6a2547788cee785a2ca301f4f43345af\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\xian\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.3.1.aar\91830422e8de2d50e5a0744617e3f34f\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\xian\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.3.1.aar\91830422e8de2d50e5a0744617e3f34f\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\xian\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.3.1.aar\6c6c5909da8f2f3f5809d170230f6d0a\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\xian\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.3.1.aar\6c6c5909da8f2f3f5809d170230f6d0a\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:transition:25.3.1] C:\Users\xian\.gradle\caches\transforms-1\files-1.1\transition-25.3.1.aar\68e70edb83fe1c9c165b30beb5822cb5\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:transition:25.3.1] C:\Users\xian\.gradle\caches\transforms-1\files-1.1\transition-25.3.1.aar\68e70edb83fe1c9c165b30beb5822cb5\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\xian\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\eac67344bc1990a6ef127becdfa727ed\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\xian\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\eac67344bc1990a6ef127becdfa727ed\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\xian\.gradle\caches\transforms-1\files-1.1\support-fragment-25.3.1.aar\1cd0e63451b08f041b567b877e43c6e1\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\xian\.gradle\caches\transforms-1\files-1.1\support-fragment-25.3.1.aar\1cd0e63451b08f041b567b877e43c6e1\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\xian\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\cf540c7272257caec23b7bbfe1675f75\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\xian\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\cf540c7272257caec23b7bbfe1675f75\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\xian\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\d2ab7e0564c8a9fb30ed8cc0698ba0ad\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\xian\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\d2ab7e0564c8a9fb30ed8cc0698ba0ad\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\xian\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-25.3.1.aar\2d4600fee38466bbcc90c9f9eb53902b\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\xian\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-25.3.1.aar\2d4600fee38466bbcc90c9f9eb53902b\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\xian\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\a6faee400a230ade8facbffd61008239\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\xian\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\a6faee400a230ade8facbffd61008239\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\xian\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\7a8fa889620b173fb50bddb1e26faf0e\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\xian\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\7a8fa889620b173fb50bddb1e26faf0e\AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:design:25.3.1] C:\Users\xian\.gradle\caches\transforms-1\files-1.1\design-25.3.1.aar\429540a4d824fd570eed048f1373862f\AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:design:25.3.1] C:\Users\xian\.gradle\caches\transforms-1\files-1.1\design-25.3.1.aar\429540a4d824fd570eed048f1373862f\AndroidManifest.xml:26:9-47
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+IMPLIED from C:\Users\xian\Documents\UCSD Coding Bootcamp\Projects\FOMO\fomomap\fomo-map\android\app\src\main\AndroidManifest.xml:1:1-26:12 reason: org.webkit.android_jsc has a targetSdkVersion < 4
+uses-permission#android.permission.READ_PHONE_STATE
+IMPLIED from C:\Users\xian\Documents\UCSD Coding Bootcamp\Projects\FOMO\fomomap\fomo-map\android\app\src\main\AndroidManifest.xml:1:1-26:12 reason: org.webkit.android_jsc has a targetSdkVersion < 4
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+IMPLIED from C:\Users\xian\Documents\UCSD Coding Bootcamp\Projects\FOMO\fomomap\fomo-map\android\app\src\main\AndroidManifest.xml:1:1-26:12 reason: org.webkit.android_jsc requested WRITE_EXTERNAL_STORAGE

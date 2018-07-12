@@ -1,0 +1,3 @@
+# Referenced at C:\Users\xian\Documents\UCSD Coding Bootcamp\Projects\FOMO\fomomap\fomo-map\android\app\build\intermediates\manifests\full\release\AndroidManifest.xml:22
+-keep class com.fomomap.MainApplication { <init>(...); }
+

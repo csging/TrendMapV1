@@ -1,0 +1,329 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\xian\Documents\UCSD Coding Bootcamp\Projects\FOMO\fomomap\fomo-map\android\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="C:\Users\xian\Documents\UCSD Coding Bootcamp\Projects\FOMO\fomomap\fomo-map\android\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-25.3.1_be6c9d3b329ef96722e71af89223013a2c10dbd1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\xian\Documents\UCSD Coding Bootcamp\Projects\FOMO\fomomap\fomo-map\android\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="C:\Users\xian\Documents\UCSD Coding Bootcamp\Projects\FOMO\fomomap\fomo-map\android\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-25.3.1_db13f300b179a3db3a86928959503e5cb7e7cdb4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\xian\Documents\UCSD Coding Bootcamp\Projects\FOMO\fomomap\fomo-map\android\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="C:\Users\xian\Documents\UCSD Coding Bootcamp\Projects\FOMO\fomomap\fomo-map\android\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-25.3.1_94ae882ff275208247d59d4d6d85b81f56afe55a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\xian\.gradle\caches\modules-2\files-2.1\javax.inject\javax.inject\1\6975da39a7040257bd51d21a231b76c915872d38\javax.inject-1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="C:\Users\xian\Documents\UCSD Coding Bootcamp\Projects\FOMO\fomomap\fomo-map\android\app\build\intermediates\pre-dexed\debug\javax.inject-1_529c5e8963e2508d62bd987c9b152ac00dcbe052.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\xian\.gradle\caches\modules-2\files-2.1\com.nineoldandroids\library\2.4.0\e9b63380f3a242dbdbf103a2355ad7e43bad17cb\library-2.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="C:\Users\xian\Documents\UCSD Coding Bootcamp\Projects\FOMO\fomomap\fomo-map\android\app\build\intermediates\pre-dexed\debug\library-2.4.0_b3f1811385e087debe03762f6c2990ae262ba060.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\xian\Documents\UCSD Coding Bootcamp\Projects\FOMO\fomomap\fomo-map\android\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="C:\Users\xian\Documents\UCSD Coding Bootcamp\Projects\FOMO\fomomap\fomo-map\android\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-25.3.1_d5b587a1b54176e22b3ff4e7e5bdc35b9fb7e7a5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\xian\Documents\UCSD Coding Bootcamp\Projects\FOMO\fomomap\fomo-map\android\app\build\intermediates\exploded-aar\com.balysv.materialmenu\material-menu\1.5.4\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="1f6ff1728c297524e82b875ce2dfda946f4bca41">
+        <dex dex="C:\Users\xian\Documents\UCSD Coding Bootcamp\Projects\FOMO\fomomap\fomo-map\android\app\build\intermediates\pre-dexed\debug\com.balysv.materialmenu-material-menu-1.5.4_8aef145d6cd24ad6a2367f8bb2e75562a494b1a6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\xian\Documents\UCSD Coding Bootcamp\Projects\FOMO\fomomap\fomo-map\android\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\xian\Documents\UCSD Coding Bootcamp\Projects\FOMO\fomomap\fomo-map\android\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-25.3.1_d0954595e9d3bc54a093ca0261ebb6e730239726.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\xian\Documents\UCSD Coding Bootcamp\Projects\FOMO\fomomap\fomo-map\android\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="C:\Users\xian\Documents\UCSD Coding Bootcamp\Projects\FOMO\fomomap\fomo-map\android\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-25.3.1_aabb9ef1c42ce6cfc062d17df2cb9c35dd29a32a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\xian\Documents\UCSD Coding Bootcamp\Projects\FOMO\fomomap\fomo-map\android\app\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline\1.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="48c7f54c2515a2312d3a4481d10c43fbb807f3af">
+        <dex dex="C:\Users\xian\Documents\UCSD Coding Bootcamp\Projects\FOMO\fomomap\fomo-map\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-imagepipeline-1.3.0_e0e087c0ee5c1c4de652c957d05c896141c377ab.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\xian\Documents\UCSD Coding Bootcamp\Projects\FOMO\fomomap\fomo-map\android\app\build\intermediates\exploded-aar\com.facebook.react\react-native\0.55.4\jars\libs\infer-annotations-4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="9809e90be788acdb479b2b44e2112f3295a03068">
+        <dex dex="C:\Users\xian\Documents\UCSD Coding Bootcamp\Projects\FOMO\fomomap\fomo-map\android\app\build\intermediates\pre-dexed\debug\infer-annotations-4.0_7833447369589709bf20c25d51b29d69cf06bf78.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\xian\Documents\UCSD Coding Bootcamp\Projects\FOMO\fomomap\fomo-map\android\app\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline-okhttp3\1.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c03c08c9934b23c8c09c803345ec51a74119127b">
+        <dex dex="C:\Users\xian\Documents\UCSD Coding Bootcamp\Projects\FOMO\fomomap\fomo-map\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-imagepipeline-okhttp3-1.3.0_e11b3e5ef5ede3982f84f0a0717d3e2d4d6ad902.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\xian\Documents\UCSD Coding Bootcamp\Projects\FOMO\fomomap\fomo-map\android\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="C:\Users\xian\Documents\UCSD Coding Bootcamp\Projects\FOMO\fomomap\fomo-map\android\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-25.3.1_7f434e4f182b77789e96bd02ce922e0ecbd25468.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\xian\Documents\UCSD Coding Bootcamp\Projects\FOMO\fomomap\fomo-map\android\app\build\intermediates\exploded-aar\com.android.support\design\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="C:\Users\xian\Documents\UCSD Coding Bootcamp\Projects\FOMO\fomomap\fomo-map\android\app\build\intermediates\pre-dexed\debug\com.android.support-design-25.3.1_a729ec9c3a1034fc642d7220cfa6e626d922ddaf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\xian\.gradle\caches\modules-2\files-2.1\com.google.code.findbugs\jsr305\3.0.0\5871fb60dc68d67da54a663c3fd636a10a532948\jsr305-3.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="C:\Users\xian\Documents\UCSD Coding Bootcamp\Projects\FOMO\fomomap\fomo-map\android\app\build\intermediates\pre-dexed\debug\jsr305-3.0.0_275ef2786ed391d99462c1559df3040eb84a79ca.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\xian\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-tasks\1.4.0\d85884acf6810a3bbbecb587f239005cbc846dc4\bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="C:\Users\xian\Documents\UCSD Coding Bootcamp\Projects\FOMO\fomomap\fomo-map\android\app\build\intermediates\pre-dexed\debug\bolts-tasks-1.4.0_ac4186ba7e85ba0ac89b9c6aff78dc2575c8cf43.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\xian\Documents\UCSD Coding Bootcamp\Projects\FOMO\fomomap\fomo-map\android\app\build\intermediates\exploded-aar\fomomap\react-native-vector-icons\unspecified\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="279750fed3c920d06351dbf32889c1b48203c7ad">
+        <dex dex="C:\Users\xian\Documents\UCSD Coding Bootcamp\Projects\FOMO\fomomap\fomo-map\android\app\build\intermediates\pre-dexed\debug\fomomap-react-native-vector-icons-unspecified_042c68669294d68e75d8376310c4c84adb6a0497.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\xian\Documents\UCSD Coding Bootcamp\Projects\FOMO\fomomap\fomo-map\android\app\build\intermediates\exploded-aar\com.facebook.fresco\drawee\1.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c65a2e39d54023bac3aef64a2f0cff89289c7ff6">
+        <dex dex="C:\Users\xian\Documents\UCSD Coding Bootcamp\Projects\FOMO\fomomap\fomo-map\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-drawee-1.3.0_679b5d0530367bcb8204f40c77304bd5002c6b32.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\xian\.gradle\caches\modules-2\files-2.1\com.facebook.fbui.textlayoutbuilder\staticlayout-proxy\1.0\f162442a19fff13995fbd51ba414d9ee05579080\staticlayout-proxy-1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f162442a19fff13995fbd51ba414d9ee05579080">
+        <dex dex="C:\Users\xian\Documents\UCSD Coding Bootcamp\Projects\FOMO\fomomap\fomo-map\android\app\build\intermediates\pre-dexed\debug\staticlayout-proxy-1.0_b1db3f53635d66be3da10df156894b4f5651130d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\xian\Documents\UCSD Coding Bootcamp\Projects\FOMO\fomomap\fomo-map\android\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="C:\Users\xian\Documents\UCSD Coding Bootcamp\Projects\FOMO\fomomap\fomo-map\android\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-25.3.1_798832582c81f9adb377b8e6d4069d45e699a599.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\xian\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.13.0\a9283170b7305c8d92d25aff02a6ab7e45d06cbe\okio-1.13.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="a9283170b7305c8d92d25aff02a6ab7e45d06cbe">
+        <dex dex="C:\Users\xian\Documents\UCSD Coding Bootcamp\Projects\FOMO\fomomap\fomo-map\android\app\build\intermediates\pre-dexed\debug\okio-1.13.0_df4078a790e568ef508fa8faeb061341958d7e0a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\xian\Documents\UCSD Coding Bootcamp\Projects\FOMO\fomomap\fomo-map\android\app\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline-base\1.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="72128af126ddd7d6252da9357fe560d3abcdfb0c">
+        <dex dex="C:\Users\xian\Documents\UCSD Coding Bootcamp\Projects\FOMO\fomomap\fomo-map\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-imagepipeline-base-1.3.0_5f97d39eda1d525af54161092f5b0e90969320b4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\xian\Documents\UCSD Coding Bootcamp\Projects\FOMO\fomomap\fomo-map\android\app\build\intermediates\exploded-aar\com.android.support\transition\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="C:\Users\xian\Documents\UCSD Coding Bootcamp\Projects\FOMO\fomomap\fomo-map\android\app\build\intermediates\pre-dexed\debug\com.android.support-transition-25.3.1_2ee71969acfe266ed651b1e0efb4ff7505b17718.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\xian\Documents\UCSD Coding Bootcamp\Projects\FOMO\fomomap\fomo-map\android\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="C:\Users\xian\Documents\UCSD Coding Bootcamp\Projects\FOMO\fomomap\fomo-map\android\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-25.3.1_445d3d31f2b450eb2e2ef66089254578e566f2c6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\xian\Documents\UCSD Coding Bootcamp\Projects\FOMO\fomomap\fomo-map\android\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="C:\Users\xian\Documents\UCSD Coding Bootcamp\Projects\FOMO\fomomap\fomo-map\android\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-25.3.1_bdc74288d29f5d083e1d2a57a83a781f1656e434.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\xian\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="C:\Users\xian\Documents\UCSD Coding Bootcamp\Projects\FOMO\fomomap\fomo-map\android\app\build\intermediates\pre-dexed\debug\support-annotations-25.3.1_55ffa38b2b980d40457e0a5bcda56e7a4a581095.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\xian\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp-urlconnection\3.6.0\3f9b16b774f2c36cfd86dd2053d0b3059531dacc\okhttp-urlconnection-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="3f9b16b774f2c36cfd86dd2053d0b3059531dacc">
+        <dex dex="C:\Users\xian\Documents\UCSD Coding Bootcamp\Projects\FOMO\fomomap\fomo-map\android\app\build\intermediates\pre-dexed\debug\okhttp-urlconnection-3.6.0_7db31f3a12379583375f5c5aecf44b3d8ee9b1d1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\xian\Documents\UCSD Coding Bootcamp\Projects\FOMO\fomomap\fomo-map\android\app\build\intermediates\exploded-aar\com.facebook.fresco\fresco\1.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="fe85b87215e405f5917d40ae4960488ac9224b74">
+        <dex dex="C:\Users\xian\Documents\UCSD Coding Bootcamp\Projects\FOMO\fomomap\fomo-map\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-fresco-1.3.0_0f0f615dea02d3f9f88ea0629c31868d8bddbffd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\xian\Documents\UCSD Coding Bootcamp\Projects\FOMO\fomomap\fomo-map\android\app\build\intermediates\exploded-aar\com.balysv.materialmenu\material-menu-toolbar\1.5.4\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="55d7bf547c88cb7c8c7c5cdbf3b06dd66c9750f8">
+        <dex dex="C:\Users\xian\Documents\UCSD Coding Bootcamp\Projects\FOMO\fomomap\fomo-map\android\app\build\intermediates\pre-dexed\debug\com.balysv.materialmenu-material-menu-toolbar-1.5.4_8085775801380e45f611809ab7f52938d324831d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\xian\Documents\UCSD Coding Bootcamp\Projects\FOMO\fomomap\fomo-map\android\app\build\intermediates\exploded-aar\fomomap\react-native-navigation\unspecified\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="25b8cd87cca130b10be7bbec4508bfcc053dcd25">
+        <dex dex="C:\Users\xian\Documents\UCSD Coding Bootcamp\Projects\FOMO\fomomap\fomo-map\android\app\build\intermediates\pre-dexed\debug\fomomap-react-native-navigation-unspecified_7f84630e666aaa7528fdfb255dd5cc20d1ae6795.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\xian\Documents\UCSD Coding Bootcamp\Projects\FOMO\fomomap\fomo-map\android\app\build\intermediates\exploded-aar\com.facebook.fbui.textlayoutbuilder\textlayoutbuilder\1.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
+        <dex dex="C:\Users\xian\Documents\UCSD Coding Bootcamp\Projects\FOMO\fomomap\fomo-map\android\app\build\intermediates\pre-dexed\debug\com.facebook.fbui.textlayoutbuilder-textlayoutbuilder-1.0.0_0539bc5f4b8f77643c1b702007807bdc734e1876.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\xian\Documents\UCSD Coding Bootcamp\Projects\FOMO\fomomap\fomo-map\android\app\build\intermediates\exploded-aar\com.facebook.fresco\fbcore\1.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="37345de2ed2772f385eaeec37a9c2ff0fea99ad7">
+        <dex dex="C:\Users\xian\Documents\UCSD Coding Bootcamp\Projects\FOMO\fomomap\fomo-map\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-fbcore-1.3.0_63ca6b4090a8de5614acfd14d624d892be0577e4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\xian\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.6.0\69edde9fc4b01c9fd51d25b83428837478c27254\okhttp-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="69edde9fc4b01c9fd51d25b83428837478c27254">
+        <dex dex="C:\Users\xian\Documents\UCSD Coding Bootcamp\Projects\FOMO\fomomap\fomo-map\android\app\build\intermediates\pre-dexed\debug\okhttp-3.6.0_680fc0cceaea65dcee5261adc28e097b8df77e8f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\xian\Documents\UCSD Coding Bootcamp\Projects\FOMO\fomomap\fomo-map\android\app\build\intermediates\exploded-aar\com.facebook.soloader\soloader\0.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="C:\Users\xian\Documents\UCSD Coding Bootcamp\Projects\FOMO\fomomap\fomo-map\android\app\build\intermediates\pre-dexed\debug\com.facebook.soloader-soloader-0.1.0_33a13b0e436b2f95a3ab3ec9dc933e3c88624599.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\xian\Documents\UCSD Coding Bootcamp\Projects\FOMO\fomomap\fomo-map\android\app\build\intermediates\exploded-aar\com.aurelhubert\ahbottomnavigation\2.0.6\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c8ba41bea7f78f8bdf3a803b9d08eb3fff416706">
+        <dex dex="C:\Users\xian\Documents\UCSD Coding Bootcamp\Projects\FOMO\fomomap\fomo-map\android\app\build\intermediates\pre-dexed\debug\com.aurelhubert-ahbottomnavigation-2.0.6_efb33a6d954b05e3f68b0ff1880e556ad18354c5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\xian\Documents\UCSD Coding Bootcamp\Projects\FOMO\fomomap\fomo-map\android\app\build\intermediates\exploded-aar\com.facebook.react\react-native\0.55.4\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="e31331bdf6b5952badadbfc171f04b95c55d3b16">
+        <dex dex="C:\Users\xian\Documents\UCSD Coding Bootcamp\Projects\FOMO\fomomap\fomo-map\android\app\build\intermediates\pre-dexed\debug\com.facebook.react-react-native-0.55.4_e8714da618b17167143343344e0d3efdc6fbe85e.jar" />
+    </item>
+
+</items>
