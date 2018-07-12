@@ -45,7 +45,7 @@ Navigation.startSingleScreenApp({
 
 //     componentWillMount() {
 //         firebase.initializeApp({
-//                 apiKey: 'AIzaSyADfogxa2nkgK7aCBfOKbIvtoIDbE8Amp0',
+//                 apiKey: '',
 //                 authDomain: 'auth-native-68d85.firebaseapp.com',
 //                 databaseURL: 'https://auth-native-68d85.firebaseio.com',
 //                 projectId: 'auth-native-68d85',
